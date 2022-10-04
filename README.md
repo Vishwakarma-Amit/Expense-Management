@@ -2,6 +2,6 @@
 # Vist the URL
 https://expense-managements-api.herokuapp.com/api/v1/swagger-ui/index.html
 
-/n Use the credential
+# Use the credential
 username - test@expense.com
 password - password
